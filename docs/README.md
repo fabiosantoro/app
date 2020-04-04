@@ -1,8 +1,5 @@
 # Symptomatic model described in :
 https://github.com/fabiosantoro/app/blob/master/Governments%20Symptomatic%20Map%20App%20COVID19%20AutoQuarantena-Selfquarantine%2003-04-20.pdf
-<BR>
-<b> Sample back-end Admin Map: </b>
-![](copertina-Fb.gif)
 
 # World Health Organization App
 
